@@ -1,0 +1,3 @@
+FASTREID:
+  CFG: "fastreid/configs/Market1501/sbs_R50-ibn.yml"
+  CHECKPOINT: "fastreid/reid_weights/market_sbs_R50-ibn.pth"
