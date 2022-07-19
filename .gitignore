@@ -4,7 +4,9 @@
 /videos/
 /YOLOX/YOLOX_outputs/
 /YOLOX/yolox_weights/
+/YOLOX/videos/
 /fastreid/datasets/Market-1501-v15.09.15.zip
 /fastreid/reid_weights/
 /fastreid/demo/demo_input/
 /fastreid/demo/demo_output/
+/venv/
