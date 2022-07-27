@@ -54,7 +54,7 @@ and refer to `configs/fastreid.yaml` for a sample of using fast-reid.
 
 See [Fastreid Model Zoo](./fastreid/MODEL_ZOO.md) for more available methods and trained models.
 
-##Run
+## Run
 
 ```
 usage: tracker.py 
