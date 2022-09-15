@@ -85,6 +85,7 @@ Use `--fastreid` to enable fastreid.
 Results will be saved to `./DeepSORT_outputs/`.
 
 All files above can also be accessed from BaiduDisk!
+ 
 linker：[BaiduDisk](https://pan.baidu.com/s/1wILNYJLxxZXEh0jSYt2_EQ)
 passwd：7yzu
 
@@ -96,9 +97,13 @@ To train the model, first you need download [Market1501](http://www.liangzheng.c
 
 Then you can try [train.py](DeepSORT/deep/train.py) to train your own parameter and evaluate it using [test.py](DeepSORT/deep/test.py) and [evaluate.py](DeepSORT/deep/evalute.py).
 ![train.jpg](DeepSORT/deep/train.jpg)
+ 
 
 ## References
 
 - paper: [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
 - code: [nwojke/deep_sort](https://github.com/nwojke/deep_sort)
 - code: [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+
+-----
+Email: wang-junjie@qq.com
