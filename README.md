@@ -106,4 +106,4 @@ Then you can try [train.py](DeepSORT/deep/train.py) to train your own parameter 
 - code: [Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 
 -----
-Email: wang-junjie@qq.com
+Email: junjiewvv@gmail.com
